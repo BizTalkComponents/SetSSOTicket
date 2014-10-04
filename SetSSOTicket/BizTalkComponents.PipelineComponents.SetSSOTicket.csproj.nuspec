@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.SetSSOTicket</id>
+    <version>1.0.0.0</version>
+    <authors>Robin Hultman</authors>
+    <owners>ibizsolutions</owners>
+    <projectUrl>https://github.com/ibizsolutions/BizTalkComponents.SetSSOTicket</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Issues and promotes a new SSO Ticket</description>
+    <releaseNotes>Initial.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>BizTalk 2013 2013R2</tags>
+  </metadata>
+</package>
