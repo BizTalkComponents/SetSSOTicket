@@ -41,7 +41,7 @@
   <ItemGroup>
     <Reference Include="BizTalkComponents.Utils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=87c265fe42e38fa5, processorArchitecture=MSIL">
       <Private>True</Private>
-      <HintPath>..\packages\BizTalkComponents.Utils.1.0.3.2\lib\net40\BizTalkComponents.Utils.dll</HintPath>
+      <HintPath>..\..\packages\BizTalkComponents.Utils.1.0.4.0\lib\net40\BizTalkComponents.Utils.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.BizTalk.Pipeline, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
