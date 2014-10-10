@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.PipelineComponents.SetSSOTicket", "SetSSOTicket\BizTalkComponents.PipelineComponents.SetSSOTicket.csproj", "{3B02EE83-EF83-4640-882B-DF9E0ED36B1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.PipelineComponents.SetSSOTicket", "Src\SetSSOTicket\BizTalkComponents.PipelineComponents.SetSSOTicket.csproj", "{3B02EE83-EF83-4640-882B-DF9E0ED36B1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
