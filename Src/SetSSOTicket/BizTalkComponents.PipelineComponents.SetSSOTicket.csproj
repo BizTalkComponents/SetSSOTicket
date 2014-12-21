@@ -48,6 +48,7 @@
       <HintPath>..\..\..\..\Program Files\Common Files\Enterprise Single Sign-On\Microsoft.EnterpriseSingleSignOn.Interop.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -58,7 +59,10 @@
   <ItemGroup>
     <Compile Include="BiztalkComponents.Utils\ContextExtensions.cs" />
     <Compile Include="BiztalkComponents.Utils\ContextProperties.cs" />
+    <Compile Include="BiztalkComponents.Utils\ContextProperty.cs" />
     <Compile Include="BiztalkComponents.Utils\PropertyBagHelper.cs" />
+    <Compile Include="BiztalkComponents.Utils\RequiredRuntimeAttribute.cs" />
+    <Compile Include="BiztalkComponents.Utils\ValidationHelper.cs" />
     <Compile Include="SetSSOTicket.Component.cs" />
     <Compile Include="SetSSOTicket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
