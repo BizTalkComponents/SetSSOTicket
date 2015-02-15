@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/github/BizTalkComponents/SetSSOTicket?branch=master)](https://ci.appveyor.com/api/projects/status/github/BizTalkComponents/SetSSOTicket/branch/master)
