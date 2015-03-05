@@ -13,7 +13,7 @@
       <Output TaskParameter="OutputItems" ItemName="Info"/>
     </MSBuild.ExtensionPack.Framework.Assembly>
   </Target>
-	<Target Name="GenerateMsi">
+	<Target Name="GenerateMsi" DependsOnTargets="GetVersion">
 		<MsiTask
 			FileName="BizTalkComponents.PipelineComponents.SetSSOTicket_%(Info.AssemblyInformationalVersion).msi"
 			DestinationPath="$(DestinationPath)"
