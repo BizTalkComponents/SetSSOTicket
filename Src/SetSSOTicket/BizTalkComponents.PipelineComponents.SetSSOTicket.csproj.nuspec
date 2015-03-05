@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>BizTalkComponents.PipelineComponents.SetSSOTicket</id>
-    <version>%version%</version>
+    <version>$version$</version>
     <authors>Robin Hultman</authors>
     <projectUrl>https://github.com/BizTalkComponents/SetSSOTicket</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
